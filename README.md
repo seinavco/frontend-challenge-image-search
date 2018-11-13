@@ -18,7 +18,7 @@ Any modern web technology
 
 ## Deployment
 
-You can deploy your app at any place you like (i.e Heroku) or just come with the code.
+You can deploy your app at any place you like (i.e Heroku).
 
 ## Bonus
 
