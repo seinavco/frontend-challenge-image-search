@@ -16,6 +16,10 @@ For this challenge, you are required to create a simple image search application
 
 Any modern web technology
 
+## Deployment
+
+You can deploy your app at any place you like (i.e Heroku) or just come with the code.
+
 ## Bonus
 
 These images once fetched are displayed in a collage, however, as a bonus, try to display a single image once clicked, either as a modal, popup or new page, however you like it!
